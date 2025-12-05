@@ -3,11 +3,43 @@
     "activeCommit": 0,
     "commits": [
         {
-            "activePatchIndex": 0,
+            "activePatchIndex": 8,
             "patches": [
                 {
                     "date": 1764873998764,
                     "content": "Index: \n===================================================================\n--- \n+++ \n"
+                },
+                {
+                    "date": 1764963558455,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -12,8 +12,9 @@\n - Add dummy contact information\n - Split confusing theme system into Appearance settings. Theme, and Mode.\n - Added Unfavorite All, and Queue All to Duplicate group header row.\n - Tweaked UI\n+- \n \n ### Bug Fixes\n - Fixed status toggles in CatalogSearchView\n \n"
+                },
+                {
+                    "date": 1764963564179,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -12,9 +12,9 @@\n - Add dummy contact information\n - Split confusing theme system into Appearance settings. Theme, and Mode.\n - Added Unfavorite All, and Queue All to Duplicate group header row.\n - Tweaked UI\n-- \n+- Added \n \n ### Bug Fixes\n - Fixed status toggles in CatalogSearchView\n \n"
+                },
+                {
+                    "date": 1764963572411,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -12,9 +12,9 @@\n - Add dummy contact information\n - Split confusing theme system into Appearance settings. Theme, and Mode.\n - Added Unfavorite All, and Queue All to Duplicate group header row.\n - Tweaked UI\n-- Added \n+- Added tip to \n \n ### Bug Fixes\n - Fixed status toggles in CatalogSearchView\n \n"
+                },
+                {
+                    "date": 1764963580338,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -12,9 +12,9 @@\n - Add dummy contact information\n - Split confusing theme system into Appearance settings. Theme, and Mode.\n - Added Unfavorite All, and Queue All to Duplicate group header row.\n - Tweaked UI\n-- Added tip to \n+- Added tip for when clicking on \n \n ### Bug Fixes\n - Fixed status toggles in CatalogSearchView\n \n"
+                },
+                {
+                    "date": 1764963592949,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -12,9 +12,9 @@\n - Add dummy contact information\n - Split confusing theme system into Appearance settings. Theme, and Mode.\n - Added Unfavorite All, and Queue All to Duplicate group header row.\n - Tweaked UI\n-- Added tip for when clicking on \n+- Added tip for when clicking on x.circle in songlist\n \n ### Bug Fixes\n - Fixed status toggles in CatalogSearchView\n \n"
+                },
+                {
+                    "date": 1764963600729,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -12,9 +12,9 @@\n - Add dummy contact information\n - Split confusing theme system into Appearance settings. Theme, and Mode.\n - Added Unfavorite All, and Queue All to Duplicate group header row.\n - Tweaked UI\n-- Added tip for when clicking on x.circle in songlist\n+- Added tip for when clicking on x.circle in songlistrow to let user \n \n ### Bug Fixes\n - Fixed status toggles in CatalogSearchView\n \n"
+                },
+                {
+                    "date": 1764963610994,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -12,9 +12,9 @@\n - Add dummy contact information\n - Split confusing theme system into Appearance settings. Theme, and Mode.\n - Added Unfavorite All, and Queue All to Duplicate group header row.\n - Tweaked UI\n-- Added tip for when clicking on x.circle in songlistrow to let user know the item is already in the \n+- Added tip for when clicking on x.circle in songlistrow to let user know the item is already in the d\n \n ### Bug Fixes\n - Fixed status toggles in CatalogSearchView\n \n"
+                },
+                {
+                    "date": 1764963846462,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -4,9 +4,9 @@\n include_in_header: true\n ---\n \n # Changelog\n-## Version 2025.12.4 ()\n+## Version 2025.12.4 (T)\n \n ### Changes\n - Added first In-App Purchase (.99 Tip option)\n - Add contact information - Main and Bluesky\n"
                 }
             ],
             "date": 1764873998764,
